@@ -1,7 +1,7 @@
 name: canopy
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 dependencies:
   - ipykernel
   - rasterio
@@ -15,4 +15,4 @@ dependencies:
   - numpy
   - pytorch-cpu
   - rasterstats
-prefix: C:\Users\Jamie\miniconda3\envs\canopy
+
