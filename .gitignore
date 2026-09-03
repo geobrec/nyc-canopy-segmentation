@@ -1,0 +1,6 @@
+data/
+__pycache__/
+*.pth
+.ipynb_checkpoints/
+*.tif
+!figures/*.png
