@@ -15,4 +15,5 @@ dependencies:
   - numpy
   - pytorch-cpu
   - rasterstats
+  - ipywidgets
 
